@@ -60,7 +60,7 @@ $ python3 01.py
 
 #### Input
 ```
-python3 02.py
+$ python3 02.py
 ```
 
 #### Example Output
@@ -72,7 +72,7 @@ The matrix is well coditioned.
 
 #### Input
 ```
-python3 03.py
+$ python3 03.py
 ```
 
 #### Example output
@@ -87,7 +87,7 @@ A =
 
 #### Input
 ```
-python3 04.py
+$ python3 04.py
 ```
 
 #### Example output
